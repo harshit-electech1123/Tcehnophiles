@@ -20,4 +20,4 @@ The software part of our project consists of an **.ipynb file** where we execute
 ## The Project as a Whole
 The Software and Hardware parts of this Home Automation project is to be implemented together using **IoT-based Cloud services** (IoT - Internet of Things). Since, cloud services are pricely we werem't able to include it. 
 
-<p align="center"><b>END</b></p>
+<p align="center"><b>-----END-----</b></p>
