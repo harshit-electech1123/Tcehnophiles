@@ -3,7 +3,7 @@ Our team has come up with the a project on **Home Automation**. This project is 
 
 ## Hardwares
 We have built a circuit on Home Automation using Aurduino UNO and other cicuitry parts. Below is the circuit diagram:
-<p align="center">![Home Automation Hardware Circuit](https://user-images.githubusercontent.com/83291010/140871308-f7b4b139-6461-4b61-be48-1071cae93d1c.png)</p>
+$$![Home Automation Hardware Circuit](https://user-images.githubusercontent.com/83291010/140871308-f7b4b139-6461-4b61-be48-1071cae93d1c.png)$$
 
 The functions which our Home Automation project executes:
 * **Theft Alarm:** This alarm buzzes if an unknown person's presence is detected by the sensor in its vicinity.
