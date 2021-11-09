@@ -1,9 +1,9 @@
 # Technophiles
-Our team has come up with the a project on Home Automation. This project is a both hardware and software. 
+Our team has come up with the a project on **Home Automation**. This project is a built with both hardware and software material. 
 
 ## Hardwares
 We have built a circuit on Home Automation using Aurduino UNO and other cicuitry parts. Below is the circuit diagram:
-![Home Automation Hardware Circuit](https://user-images.githubusercontent.com/83291010/140871308-f7b4b139-6461-4b61-be48-1071cae93d1c.png)
+<p align="center">![Home Automation Hardware Circuit](https://user-images.githubusercontent.com/83291010/140871308-f7b4b139-6461-4b61-be48-1071cae93d1c.png)</p>
 
 The functions which our Home Automation project executes:
 * **Theft Alarm:** This alarm buzzes if an unknown person's presence is detected by the sensor in its vicinity.
@@ -20,4 +20,4 @@ The software part of our project consists of an **.ipynb file** where we execute
 ## The Project as a Whole
 The Software and Hardware parts of this Home Automation project is to be implemented together using **IoT-based Cloud services** (IoT - Internet of Things). Since, cloud services are pricely we werem't able to include it. 
 
---------------------------------------------------------------------END-----------------------------------------------------------------------
+<p align="center">**-----END-----**</p>
